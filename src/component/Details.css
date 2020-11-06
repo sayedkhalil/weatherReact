@@ -1,0 +1,16 @@
+.oo {
+  width: 50%;
+  margin: 30px auto;
+  background-color: rgba(255, 219, 142, 0.658);
+
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.oo p {
+  margin: 5px;
+  padding: 3px;
+  font-size: larger;
+  font-weight: bolder;
+  border-bottom: 1px solid black;
+  text-align: left;
+}
